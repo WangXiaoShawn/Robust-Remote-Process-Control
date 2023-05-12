@@ -20,10 +20,11 @@ This program will be responsible for reading the configuration file. Note that t
 
 The required directory structure for this solution is as follows. Ensure that the makefiles in each folder support this structure.
 
-|-FinalProject 
- | |-ProcKiller - contains the ProcKiller application 
- | |-Child - contains the Child applications 
- | |-common – contains the Configuration File reader application used by ProcKiller, SysManager and the Child programs
- | |-SysManager – contains the SysManager application 
- | |-config – contains the Configuration file read by ProcKiller, SysManager and the Child programs 
- | |-bin
+- FinalProject 
+  - ProcKiller - contains the ProcKiller application 
+  - Child - contains the Child applications 
+  - common – contains the Configuration File reader application used by ProcKiller, SysManager and the Child programs
+  - SysManager – contains the SysManager application 
+  - config – contains the Configuration file read by ProcKiller, SysManager and the Child programs 
+  - bin
+
